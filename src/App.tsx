@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { LoadingScreen } from './components/LoadingScreen';
 import { Hero } from './components/Hero';
 import { SelectedWorks } from './components/SelectedWorks';

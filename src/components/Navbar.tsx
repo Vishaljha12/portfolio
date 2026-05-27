@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { ArrowUpRight } from 'lucide-react';
-import { clsx } from 'clsx';
+
 import { twMerge } from 'tailwind-merge';
 
 export const Navbar: React.FC = () => {
